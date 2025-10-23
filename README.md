@@ -6,18 +6,18 @@ A CSS project to practice CSS Grid. This project is a simple webpage with a maga
 
 ## Features
 
--   CSS Grid
--   Responsive Design
--   Media Queries
--   Pseudo-elements
+- CSS Grid
+- Responsive Design
+- Media Queries
+- Pseudo-elements
 
 ## Live Demo
 
-[Magazine](https://quintin-dev.github.io/CSS-Mini_Projects-Magazine/)
+[Magazine](https://quintincodes.github.io/CSS-Mini_Projects-Magazine/)
 
 ## Disclaimer
 
--   This project will not be updated or maintained. It is a simple project to practice CSS Grid.
+- This project will not be updated or maintained. It is a simple project to practice CSS Grid.
 
 Feel fork this project and style it as you wish.
 
